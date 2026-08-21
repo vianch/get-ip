@@ -1,8 +1,8 @@
 class GetIp < Formula
-  desc "Beautiful TUI showing your network interfaces, IPs, MACs, gateways, and DHCP/Manual mode"
+  desc "TUI for inspecting network interfaces, IPs, MACs, gateways, and DHCP mode"
   homepage "https://github.com/vianch/get-ip"
   url "https://github.com/vianch/get-ip/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_RELEASE_TARBALL_SHA256"
+  sha256 "9c4e4b0d9317f0a3d04efab868bfdef02c8a81b21e520b3ff8cb66deada84cf8"
   license "MIT"
   head "https://github.com/vianch/get-ip.git", branch: "main"
 
